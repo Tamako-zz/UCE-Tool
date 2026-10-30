@@ -1,6 +1,6 @@
 # UCE Tool
 
-**简体中文** | [English](README.en.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Français](README.fr.md)
+**简体中文** | [English](multilingual-readme/README.en.md) | [Deutsch](multilingual-readme/README.de.md) | [日本語](multilingual-readme/README.ja.md) | [Français](multilingual-readme/README.fr.md)
 
 UCE Tool 是 USB-C Explorer 的电脑端配套工具，用于查看实时测量数据、读取 E-Marker、检测充电协议、更新设备固件和配置设备主题颜色。
 
